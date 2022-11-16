@@ -119,8 +119,8 @@ a{
 }
 
 footer{
-    margin-bottom: -9%;
-    text-align: center;
+    padding: 12px;
+     text-align: center;
     font-size: small;
     color: #e8e8e8;
 }
