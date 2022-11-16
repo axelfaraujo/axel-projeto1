@@ -54,7 +54,7 @@ body{
 
 
 .social{
-    color: #e8e8e8;
+    color: #ad2d2d;
     width: 30px;
 }
 
@@ -65,6 +65,7 @@ body{
 .name{
     font-size: 900;
     font-size: 2rem;
+    color: #ad2d2d;
 }
 
 .local{
@@ -101,6 +102,12 @@ a{
     text-decoration: none;
 }
 
+
+.btn:hover,
+.btn:focus{
+    opacity: 0.7;
+}
+
 .btns{
     display: flex;
     flex-wrap: wrap;
@@ -108,7 +115,7 @@ a{
     }
 
 .btn{
-    background-color: #363636;
+    background-color: #ad2d2d;
     color: #e8e8e8;
     border: initial;
     font-family: 'Inter' sans-serif;
